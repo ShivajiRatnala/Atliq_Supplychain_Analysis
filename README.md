@@ -13,3 +13,4 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 Analysis
 
+<img width="1171" height="664" alt="image" src="https://github.com/user-attachments/assets/7aa989c1-2a4e-4155-abc1-73d50a0514b6" />
